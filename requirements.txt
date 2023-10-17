@@ -1,0 +1,8 @@
+pandas
+streamlit
+urlextract
+wordcloud
+emoji
+collections
+matplotlib
+re
